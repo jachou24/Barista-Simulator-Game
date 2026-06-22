@@ -1,1 +1,3 @@
+*** Watch the code demo video to see real gameplay! ***
+
 Unemployed? Dreaming of that minimum wage 9-5? This is the game for you! With the POS system designed using tkinter GUI, you too can experience wild (randomized, object-oriented) customers and take their orders. Not stressed enough? Don't worry, we've added a timer to... help boost your productivity! Good luck on your first day :)
